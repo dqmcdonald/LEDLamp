@@ -1,0 +1,38 @@
+Cmp-Mod V01 Created by CvPcb (2014-02-26 BZR 4721)-product date = Monday, 09 February 2015 11:33:09
+
+BeginCmp
+TimeStamp = /54D7DEC9;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = DQM:LED10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /54D7DEDD;
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = DQM:LED10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /54D7DDF3;
+Reference = K1;
+ValeurCmp = CONN_3;
+IdModule  = pin_array:PIN_ARRAY_3X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /54D7DE13;
+Reference = K2;
+ValeurCmp = CONN_3;
+IdModule  = pin_array:PIN_ARRAY_3X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /54D7DE38;
+Reference = R1;
+ValeurCmp = 180 Ohm;
+IdModule  = discret:R4;
+EndCmp
+
+EndListe
